@@ -15,7 +15,7 @@ public class JavaApplication71 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("asus a hp dan salam");
+        System.out.println("tortoise");
     }
     
 }
